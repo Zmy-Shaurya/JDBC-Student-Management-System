@@ -1,5 +1,3 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/75c64692-bc23-478e-81bd-5ae0b1db55a3" /># JDBC Student Management System
-
 ## Features:
 - Add Student
 - View Student
