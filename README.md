@@ -11,8 +11,8 @@
 # Code File: [StudentManagementSystem.java](https://github.com/Zmy-Shaurya/JDBC-Student-Management-System/blob/main/src/main/java/com/tech/StudentManagementApp/StudentManagementApp.java)
 
 # Team Members:
-- Shaurya Pratap Singh - [Github](github.com/Zmy-Shaurya)
-- Aditya Gupta - [Github](github.com/karragamer)
+- Shaurya Pratap Singh - [Github](https://github.com/Zmy-Shaurya)
+- Aditya Gupta - [Github](https://github.com/karragamer)
 - Ayush Kumar Sikarwar - [Github](https://github.com/Ayush1Sikarwar)
 - Shaurya Singhal - [Github](https://github.com/shauryasinghal)
 - Aanya Tyagi - [Github](https://github.com/Aanya08-tyagi)
